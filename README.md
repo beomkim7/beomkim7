@@ -1,4 +1,15 @@
-## Hi there 👋
+
+<div align="left">
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbeomkim7%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23FF0000&title=visit&edge_flat=true)](https://hits.seeyoufarm.com)
+<br>
+
+</div>
+
+🚀 Skills
+
+
+
 
 <!--
 **beomkim7/beomkim7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
